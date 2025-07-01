@@ -1,0 +1,6 @@
+Flask
+langchain
+gunicorn
+werkzeug
+requests
+
