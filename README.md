@@ -1,4 +1,4 @@
-# 🧭 AI Travel Planner (WIP)
+# AI Travel Planner 
 
 An intelligent agent-based travel planner that understands natural language queries like:
 
@@ -8,25 +8,25 @@ It parses the query, fetches real-time travel options, filters results using rea
 
 ---
 
-## 🚧 Status
+## Status
 
-> **Project Status:** `In Progress` 🚀  
+> **Project Status:** `In Progress`   
 Agent tuning and multi-hop route reasoning are actively being refined.  
 WhatsApp integration is the next deployment step.
 
 ---
 
-## 🔍 Features (Planned / Partial)
+## Features (Planned / Partial)
 
-- ✅ Natural language travel intent extraction (source, destination, date, preferences)
-- ✅ Travel data scraping from platforms like Ixigo, RedBus
-- ✅ Route filtering using reasoning (ReAct / LangGraph agents)
-- ⏳ WhatsApp bot interface for direct user interaction
-- ⏳ Deployment-ready agent orchestration using LangChain / LangGraph
+-  Natural language travel intent extraction (source, destination, date, preferences)
+-  Travel data scraping from platforms like Ixigo, RedBus
+-  Travel option filtering using reasoning (ReAct / LangGraph agents)
+-  WhatsApp bot interface for direct user interaction
+-  Deployment-ready agent orchestration using LangChain / LangGraph
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 - **LLM & Agents**: LangChain, LangGraph, ReAct-style agents
 - **Scraping**: Playwright, BeautifulSoup
